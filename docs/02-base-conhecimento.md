@@ -40,7 +40,7 @@ import panda as pd
 import json
 
 perfil = json.load(open('./data/perfil_investidor.json'))
-transacpes = pd.read_csv('./data/transacoes.csv')
+transacoes = pd.read_csv('./data/transacoes.csv')
 historico = pd.read_csv('.data/historico_atendimento.csv')
 produtos = json.load(open('./data/produtos_financeiros.json'))
 ```
