@@ -23,7 +23,7 @@
 
 ### Como os dados são carregados?
 >
-> Injetar os dados diretamente no promtp ou carregar os arquivos via código, como no exemplo a seguir:
+> Injetar os dados diretamente no prompt ou carregar os arquivos via código, como no exemplo a seguir:
 
 ```python
 import panda as pd
