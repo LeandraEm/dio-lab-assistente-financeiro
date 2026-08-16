@@ -5,7 +5,7 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Auxilia na administração dos gastos mensais, ajudando a entender para onde o dinheiro está indo
+Auxilia na administração dos gastos mensais, ajudando a entender para onde o dinheiro está indo além de esclarecer pontos básicos sobre possibilidades de investimento.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
