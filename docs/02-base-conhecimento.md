@@ -1,5 +1,15 @@
 # Base de Conhecimento
 
+> [!TIP]
+> **Prompt sugerido para esta etapa:**
+> Preciso organizar a base de conhecimento do meu agente financeiro educativo.
+> Tenho estes arquivos de dados: [liste os arquivos]
+> Me ajude a:
+> (1) entender o que cada arquivo contém
+> (2) decidir como cada um será usado
+> (3) criar exemplo de contexto formatado para incluir no prompt.
+> 
+
 ## Dados Utilizados
 
 | Arquivo | Formato | Para que serve? |
