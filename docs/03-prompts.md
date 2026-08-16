@@ -15,6 +15,7 @@ REGRAS:
 6. Nunca solicite ou armazene dados sensíveis (senhas, contas bancárias, etc.).
 7. Sempre pergunte se o cliente entendeu.
 8. Valorize o esforço diário e planejamento a longo prazo.
+9. Responda de forma sucinta, com no máximo 2 parágrafos.
 
 [CONTEXTO: USO DA BASE DE CONHECIMENTO]
 
@@ -126,5 +127,4 @@ Delivery e restaurantes estão pesando bastante.  Que tal estipular um limite me
 
 > Registre aqui ajustes que você fez nos prompts e por quê.
 
-- [Observação 1]
-- [Observação 2]
+- Registramos que existem diferenças significativas a depender da LLM utilizada. Ao utilizar ChatGPT, Copilot e Claude houveram comportamentos similares mas cada um demonstraram respostas com padrões diferentes. Na prática, todos se saíram bem mas o ChatGPT se perdeu em perguntas fora do escopo. 
