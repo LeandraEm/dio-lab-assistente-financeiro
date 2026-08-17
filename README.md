@@ -92,7 +92,7 @@ streamlit run .\src\app.py
 | **Segurança** | O agente evitou inventar informações? | 
 | **Coerência** | A resposta faz sentido para o perfil do cliente? | 
 
-## Documentação completa 
+## 📝 Documentação completa 
 Toda a documentação técnica, estratégias de Prompt e casos de teste estão disponíveis na pasta  `docs/`.
 
 
